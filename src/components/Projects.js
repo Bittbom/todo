@@ -5,8 +5,8 @@ import Project from "./Project";
 function Projects() {
   return (
     <div className="Projects">
-      <Project />
       <AddNewProject />
+      <Project />
     </div>
   );
 }
